@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Alicia",
+        "age": 26,
+        "profileImg": "https://pbs.twimg.com/media/DuztlNjWsAM-Mq-.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 17,
+        "profileImg": "https://chorus.stimg.co/22132242/ows_f1b701a4_8366_4494_a606_17f471eb6b95.jpg?fit=crop&crop=faces"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 32,
+        "profileImg": "https://s3.amazonaws.com/allaboutjazz/photos/a_large/ac568513cd95ba448502af33057719bd.jpg"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "age": 14,
+        "profileImg": "https://ichef.bbci.co.uk/news/976/cpsprodpb/123FD/production/_117694747_davidbowiegetty.jpg"
+    }
+]
